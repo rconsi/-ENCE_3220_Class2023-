@@ -1,0 +1,7 @@
+Warning: Width correction constrained.  The width correction value must be in the range of [0.000001 mm; 0.199999 mm] for the current design rules.
+Plotted to 'C:\Users\ryanc\Documents\EmbeddedSystemsKiCadFiles\EmbeddedSystemsPhaseA-backups\EmbeddedSystemsPhaseA-F_Cu.gbr'.
+Plotted to 'C:\Users\ryanc\Documents\EmbeddedSystemsKiCadFiles\EmbeddedSystemsPhaseA-backups\EmbeddedSystemsPhaseA-B_Cu.gbr'.
+Plotted to 'C:\Users\ryanc\Documents\EmbeddedSystemsKiCadFiles\EmbeddedSystemsPhaseA-backups\EmbeddedSystemsPhaseA-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\ryanc\Documents\EmbeddedSystemsKiCadFiles\EmbeddedSystemsPhaseA-backups\EmbeddedSystemsPhaseA-B_Silkscreen.gbr'.
+Created Gerber job file 'C:\Users\ryanc\Documents\EmbeddedSystemsKiCadFiles\EmbeddedSystemsPhaseA-backups\EmbeddedSystemsPhaseA-job.gbrjob'.
+Info: Done.
